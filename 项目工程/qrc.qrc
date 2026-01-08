@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/images/background-day.png</file>
+        <file>assets/images/bluebird-downflap.png</file>
+        <file>assets/images/bluebird-midflap.png</file>
+        <file>assets/images/bluebird-upflap.png</file>
+        <file>assets/images/gameover.png</file>
+        <file>assets/images/pipe-green.png</file>
+        <file>assets/images/greenbird-downflap.png</file>
+        <file>assets/images/greenbird-midflap.png</file>
+        <file>assets/images/greenbird-upflap.png</file>
+        <file>assets/sounds/bgm.wav</file>
+        <file>assets/sounds/bgm.flac</file>
+        <file>assets/sounds/lose-game.wav</file>
+        <file>assets/sounds/sfx_point.wav</file>
+        <file>assets/images/manbird-downflap.png</file>
+        <file>assets/images/manbird-midflap.png</file>
+        <file>assets/images/manbird-upflap.png</file>
+        <file>assets/sounds/sfx_point_1.wav</file>
+    </qresource>
+</RCC>
